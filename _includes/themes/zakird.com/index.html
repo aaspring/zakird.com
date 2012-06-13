@@ -1,0 +1,27 @@
+<div class="post">
+    <div class="details">
+        <img class="displayed" src="{{ ASSET_PATH }}/zakird.com/img/pic.jpg" alt="some_text"/>
+    </div>
+    <div class="body">{{ content }}	</div>
+    <div class="x"></div>
+</div>
+
+<div class="leftixcol">
+    {% for post in site.tags.index_short %}
+    <div class="col">
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p>{{ post.description }} &not; <a href="{{ post.url }}">read more</a></p>
+    </div>
+    {% endfor %}
+</div>
+
+<div class="rightixcol">
+    {% for post in site.tags.index_long %}
+    <div class="col last">
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p>{{ post.description }} &not; <a href="{{ post.url }}">read more</a></p>
+    </div>
+    {% endfor %}
+</div>
+
+

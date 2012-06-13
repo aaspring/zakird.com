@@ -1,0 +1,20 @@
+---
+layout: page
+title: open projects
+---
+{% include JB/setup %}
+
+#### [pyad: Python Active Directory Tools](https://github.com/zakird/pyad)
+pyad is a comprehensive python library for managing Microsoft Active Directory via the pywin32 provided ADSI interface. The library is designed to provide a simple, object-oriented interface to Active Directory without requiring the knowledge of the ins-and-outs of the ADSI interface nor how to interface with the Win32 API in Python. A tutorial is available [here](index.html). The project is hosted on [github](https://github.com/zakird/pyad) and can be installed via [pypi](http://pypi.python.org/pypi/pyad). 
+
+#### [androjack: Android Session Hijacker](https://github.com/zakird/androjack)
+Androjack is a tool designed to allow automated testing for session hijacking vulnerabilities. The tool was initially designed to test for vulnerabilities in Android applications for a project at The University of Michigan. However it can be used to test any HTTP based application or website. It works by capturing all plain-text HTTP requests, replaying them using Mechanize, and then analyzing page content. The project is written in Ruby and is hosted on [github](https://github.com/zakird/androjack).
+  
+#### [mirrortools: The Missing SQL Server Mirroring Toolkit](https://github.com/zakird/mirrortools)
+mirrortools is a collection of stored procedures that allow easy manipulation and management of sets of mirrored databases in Microsoft SQL Server 2005+ that were developed while I was at The University of Iowa. More information available and project hosting at [https://github.com/zakird/mirrortools](https://github.com/zakird/mirrortools)
+  
+#### [pymetapeople: Python MetaPeople Interface](#)
+pymetapeople is a Python module that allows for simple pythonic access to Identity (HR and student) data at The University of Iowa through the MetaPeople SOAP service. Information on the MetaPeople Service and the pymetapeople code base can be found [here](https://groupshare.uiowa.edu/projects/identity) (UI only).
+
+#### [OpenReport: An Open Source Web Reporting Framework](#)
+I am currently in the midst developing OpenReport, an open source and platform independent web reporting framework similar to Microsoft Reporting Services and Crystal Reports written in Python. While I'm not planning to replicate every design feature within SSRS, I am I am hoping to have a framework that allows typical reports to be deployed more quickly to the web and can be easily extended. I hope to have an initial public release by the end of the calendar year.
