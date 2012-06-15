@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: cv
 title: curriculum vitæ
 ---
 {% include JB/setup %}
-
-#### Abstract
 
 I am a first year Ph.D. pre-candidate and research fellow in Electrical Engineering and Computer Science at the University of Michigan where my research is primarily focused on applied systems security and security policy; I am advised by [Professor J. Alex Halderman](https://jhalderm.com/).
 

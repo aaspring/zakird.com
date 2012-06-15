@@ -32,15 +32,22 @@ h4 a:hover { color: #333 }
 	.talk li {list-style-type: none; margin: 0 0 7px 30px;}
 	.talk .right {float: right; padding: 0 0 0 0;}
 
-.job {margin: 0 0 10px 0;}
+.job {margin: 0 0 10px 0; text-align: left}
 	.job p {margin: 0 0 0 0;}
 	.job .right {float: right; padding: 0 0 0 0;}
 	.job ul {margin: 0 0 20px 0px;}
 	.job li {margin: 5px 0 0 40px; color: #777; }
 
 .blog {  clear: both; padding: 30px 10px; border-top: 1px solid #ddd; color: #555; margin-left:auto; margin-right:auto; 	}
-	.title {margin-left:auto; margin-right:auto;  width:90%; color: #444}
-	.content {margin-left:auto; margin-right:auto;  width:90%; font-size: 1.0em;}
+	.blog .title {margin-left:auto; margin-right:auto;  width:80%; color: #444}
+	.blog .content {margin-left:auto; margin-right:auto;  width:80%; font-size: 1.0em; text-align: justify;}
+	.blog h3 { font-size: 1.7em; font-weight: normal; margin: 0 0 0 0 }
+	.blog h3 a { color: #555; }
+	
+.cv {  clear: both; padding: 30px 10px; border-top: 1px solid #ddd; color: #555; margin-left:auto; margin-right:auto; }
+	.cv .title {margin-left:auto; margin-right:auto;  width:65%; color: #444}
+	.cv .content {margin-left:auto; margin-right:auto;  width:65%; font-size: 1.0em; text-align: justify;}
+
 
 #menu { float: right; margin: 10px 10px 0 0; }
 	#menu li { display: inline; list-style: none; font-size: 1.1em;  }
@@ -55,11 +62,7 @@ h4 a:hover { color: #333 }
 	.post .details .info a { color: #777; border-bottom: 1px dotted #999; padding: 3px 1px; }
 	.post .body { float: right; width: 618px; padding: 0 0 0 30px; border-left: 1px solid #ddd; font-size: 1.05em;}
 	
-.page { clear: both; padding: 30px 10px; border-top: 1px solid #ddd; margin: 0 0 30px; color: #555}
-	.page .details { float: left; width: 250px; }
-	.page .details .info { font-size: .9em; color: #999; }
-	.page .details .info a { color: #777; border-bottom: 1px dotted #999; padding: 3px 1px; }
-	.page .body { float: right; width: 618px; padding: 0 0 0 30px; border-left: 1px solid #ddd; font-size: 1.05em;}
+
 
 .col { width: 290px; margin: 0 40px 8px 0; float: left; font-size: .95em; padding: 0 0 0px 10px; }
 	.col.last { width: 615px; margin-right: 0; padding: 0 0 0 0;}

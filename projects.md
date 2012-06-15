@@ -1,8 +1,10 @@
 ---
 layout: page
-title: open projects
+title: Open Source Projects
 ---
 {% include JB/setup %}
+
+I do my best to publish and actively maintain code that I believe might be useful to others; most of it is available on [github](https://github.com/zakird). Below are a few of the projects on which I have recently worked.
 
 #### [pyad: Python Active Directory Tools](https://github.com/zakird/pyad)
 pyad is a comprehensive python library for managing Microsoft Active Directory via the pywin32 provided ADSI interface. The library is designed to provide a simple, object-oriented interface to Active Directory without requiring the knowledge of the ins-and-outs of the ADSI interface nor how to interface with the Win32 API in Python. A tutorial is available [here](index.html). The project is hosted on [github](https://github.com/zakird/pyad) and can be installed via [pypi](http://pypi.python.org/pypi/pyad). 
