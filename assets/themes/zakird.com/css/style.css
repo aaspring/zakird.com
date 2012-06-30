@@ -36,7 +36,7 @@ h4 a:hover { color: #333 }
 	.job p {margin: 0 0 0 0;}
 	.job .right {float: right; padding: 0 0 0 0;}
 	.job ul {margin: 0 0 20px 0px;}
-	.job li {margin: 5px 0 0 40px; color: #777; }
+	.job li {margin: 5px 40px 0 40px; color: #777; }
 
 .blog {  clear: both; padding: 30px 10px; border-top: 1px solid #ddd; color: #555; margin-left:auto; margin-right:auto; 	}
 	.blog .title {margin-left:auto; margin-right:auto;  width:80%; color: #444}
