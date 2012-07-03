@@ -8,22 +8,6 @@
         <meta name="author" content="{{ site.author.name }}">
 		<link href="{{ ASSET_PATH }}/css/style.css" rel="stylesheet" type="text/css">
 		<link href="{{ ASSET_PATH }}/css/pygments.css" rel="stylesheet" type="text/css">
-
-
-        <script type="text/javascript">
-          var _gauges = _gauges || [];
-          (function() {
-            var t   = document.createElement('script');
-            t.type  = 'text/javascript';
-            t.async = true;
-            t.id    = 'gauges-tracker';
-            t.setAttribute('data-site-id', '4fe3a2a4613f5d2d5600005d');
-            t.src = '//secure.gaug.es/track.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(t, s);
-          })();
-        </script>
-
     </head>
     <body>
 		<div id="content">
@@ -37,7 +21,19 @@
         <div id="footer">
             <p>&copy; {{ site.author.name }} 2012. Design based on <a href="http://www.solucija.com/">minimalistica</a>.</p>
         </div>
-        {% include JB/analytics %}
+        <script type="text/javascript">
+          var _gauges = _gauges || [];
+          (function() {
+            var t   = document.createElement('script');
+            t.type  = 'text/javascript';
+            t.async = true;
+            t.id    = 'gauges-tracker';
+            t.setAttribute('data-site-id', '4fe3a2a4613f5d2d5600005d');
+            t.src = '//secure.gaug.es/track.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(t, s);
+          })();
+        </script>
 		</div>
     </body>
 </html>

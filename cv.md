@@ -29,7 +29,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 <p><a href="https://www.umich.edu">The University of Michigan</a></p>
 <ul>
 <li>Ph.D. Computer Science and Engineering</li>
-<li>Advisor: J. Alex Halderman</li>
+<li>Advisor: Professor J. Alex Halderman</li>
 </ul>
 </div>
 
@@ -46,7 +46,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 
 #### Peer-Reviewed Publications
 <div class="talk">
-<p><a>Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</a></p>
+<p><a href="https://factorable.net/paper.html">Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</a></p>
 <ul>
 	<li>Nadia Heninger, Zakir Durumeric, Eric Wustrow, Alex Halderman</li>
 	<li>21st USENIX Security Symposium -- August 2012 (upcoming)</li>
@@ -58,8 +58,8 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 <div class="talk">
 <p><a>Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</a></p>
 <ul>
-<li>USENIX Security Symposium -- August 10, 2012 (upcoming)</li>
-<li>The University of Iowa -- June 28, 2012 (upcoming) -- invited</li>
+<li>21st USENIX Security Symposium -- August 10, 2012 (upcoming)</li>
+<li>The University of Iowa -- June 28, 2012 -- invited</li>
 </ul>
 </div>
 
