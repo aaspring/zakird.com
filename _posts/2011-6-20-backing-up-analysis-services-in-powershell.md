@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "SQL Server Analysis Services Backup in Powershell"
-description: "A simple script for backing up SQL Server Analysis Services Backup in Powershell"
+description: "A simple script for backing up SQL Server Analysis Services databases to a network share in Powershell"
 category: "code"
 tags: ["index_short", "SQL Server"]
 ---
 {% include JB/setup %}
 
-A simple script for backing up databases in Analysis Services Server using Windows Powershell.
+A simple script for backing up databases in Microsoft SQL Server Analysis Services Server using Windows Powershell. The script will backup a subset or all of the databases on an SSAS instance to a SMB network share and maintain the backups for a set period of time. With no configuration, the script will backup all of the databases on the local server to the BackupDir defined within Analysis Services instances and retain backups for 30 days. At the very least it can serve as a base for more complex backup solutions. 
 
 {% highlight ps1 %}
 	###### Configuration ######
@@ -25,8 +25,10 @@ A simple script for backing up databases in Analysis Services Server using Windo
 	# will be backed up.
 	$user_requested_databases = $null
 
-	# How long backups will be retained...
+	# How long backups will be retained
 	$retention_period_in_days = 30
+
+    ###### End Configuration ######
 
 	trap [Exception] {
 	    write-error $("TRAPPED: " + $_.Exception.GetType().FullName) 
@@ -45,14 +47,15 @@ A simple script for backing up databases in Analysis Services Server using Windo
 	$server = New-Object Microsoft.AnalysisServices.Server
 	$server.connect($server_name)
 
-	# Set the directory for backups to the server property "BackupDir" if it's not otherwise specified. 
+	# Set the directory for backups to the server property 
+    # "BackupDir" if it's not otherwise specified 
 	if ($backup_location -eq $null) { 
 	    $backup_location = ($server.get_ServerProperties() | Where {$_.Name -eq "BackupDir"}).Value}
 	elseif (!(Test-Path -path $backup_location)) {
 	    throw "Specified path ($backup_location) does not exist."
 	}
 
-	# Generate an array of databases to be backed up.
+	# Generate an array of databases to be backed up
 	$available_databases = ($server.get_Databases() | foreach {$_.Name})
 	if ($user_requested_databases -eq $null) {
 	    $databases = $available_databases}
