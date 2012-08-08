@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Python Active Directory Tools"
-description: "An introduction and tutorial on managing Microsoft Active Directory with `pyad`, the Pythonic ADSI interface and Active Directory library that was designed during my time at The University of Iowa."
+title: "Managing Active Directory with Python"
+description: "A tutorial on managing Microsoft Active Directory with `pyad`, the Python library for Active Directory administration and an introduction to directly manipulating Active Directory through pywin32 and ADSI."
 category: "code"
 tags: []
 ---
 {% include JB/setup %}
 
-I have recently received a large number of questions regarding the pyad library and I wanted to provide a brief guide to the library and some background as to why I designed the library in the manner I did -- mostly because I realize that some typical workflows may not be immediately obvious from the current documentation. I'll be working to incorporate these examples into the formal documentation when I have time.
+I have recently received a good number of questions regarding the pyad library and I wanted to provide a brief introduction. My intent for this article is to provide a brief tutorial as to how to perform basic operations with pyad, but to also provide detail on how the library operates and the backend for users who want to directly interact with ADSI through Python.
 
 #### Motivation
 I wrote pyad, the Python Active Directory Toolkit, in 2008 while at [The University of Iowa](http://www.uiowa.edu) because there were no simple, straight forward tools for managing Active Directory in Python. It was always possible to make ADSI calls through the win32api and I had no intention of recreating any of this implementation, but it quickly becomes clear that the interface required a much deeper knowledge of the win32api, pywin32, ADSI, and Active Directory as a whole than I thought should be necessary for daily operations.

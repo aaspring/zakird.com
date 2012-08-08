@@ -39,8 +39,8 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 <p>2007 - 2011</p>
 </div>
 <ul>
-<li>B.S. Computer Science, B.S. Mathematics</li>
-<li>Presidential Scholar (2007-2011)</li>
+	<li>B.S. Computer Science, B.S. Mathematics</li>
+	<li>Presidential Scholar (2007-2011)</li>
 </ul>
 </div>
 
@@ -49,7 +49,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 <p><a href="https://factorable.net/paper.html">Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</a></p>
 <ul>
 	<li>Nadia Heninger, Zakir Durumeric, Eric Wustrow, Alex Halderman</li>
-	<li>21st USENIX Security Symposium -- August 2012 (upcoming)</li>
+	<li>21st USENIX Security Symposium -- August 2012 -- Best Paper Award</li>
 	
 </ul>
 </div>
@@ -58,15 +58,15 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 <div class="talk">
 <p><a>Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</a></p>
 <ul>
-<li>21st USENIX Security Symposium -- August 10, 2012 (upcoming)</li>
-<li>The University of Iowa -- June 28, 2012 -- invited</li>
+	<li>21st USENIX Security Symposium -- August 9, 2012</li>
+	<li>The University of Iowa -- June 28, 2012 -- invited</li>
 </ul>
 </div>
 
 <div class="talk">
 <p><a>Architecting the RISOPS Identity Management Framework</a></p>
 <ul>
-<li>The University of Iowa -- June 15, 2011 -- invited</li>
+	<li>The University of Iowa -- June 15, 2011 -- invited</li>
 </ul>
 </div>
 
