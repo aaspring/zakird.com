@@ -116,7 +116,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 </ul>
 </div>
 
-#### Committee Involvement
+#### Service 
 
 <div class="job">
 	<div class="right">
@@ -125,7 +125,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 <p><a href="http://www.uiowa.edu/~our/opmanual/i/028.htm#2814">Presidential Charter Committee on Lectures</a></p>
 <p>Office of the President, The University of Iowa</p>
 <ul>
-	<li>Chaired Presidential Charter Committee responsible for bringing influential speakers to campus and running UI Lecture Series with an annual budget of $150,000</li>
+	<li>Chaired Presidential Charter Committee responsible for bringing influential speakers to campus and executing University Lecture Series</li>
 	<li>Committee Chair Sept 2010 – Aug 2011</li>
 </ul>
 </div>
@@ -149,5 +149,19 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 <p>Office of the President, The University of Iowa</p>
 <ul>
 	<li>Advised CIO and senior IT leaders on campus-wide IT strategy and policy</li>
+</ul>
+</div>
+
+#### Awards and Honors
+<div class="job">
+<ul>
+    <li>Best Paper Award, 21st USENIX Security Symposium, Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</li>
+    <li>2nd Place, 2012 CSE Graduate Student Honors Competition, The University of Michigan</li>
+    <li>CSE Graduate Fellowship, The University of Michigan</li>
+    <li>Presidential Scholar, The University of Iowa</li>
+    <li>Old Gold Scholar, The University of Iowa</li>
+    <li>Principal Financial Group Foundation Scholarship, The University of Iowa</li>
+    <li>Cerner Corporation Computer Science Scholarship, The University of Iowa</li>
+    <li>Arthur Collins Computer Science Scholarship, The University of Iowa</li>
 </ul>
 </div>
