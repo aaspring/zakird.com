@@ -1,7 +1,7 @@
 ---
 layout: index
 title: Zakir Durumeric
-description: Ph.D. student and Research Fellow in the Deptartment of Electrical Engineering and Computer Science at the University of Michigan.
+description: Ph.D. student and Research Fellow in the Department of Electrical Engineering and Computer Science at the University of Michigan.
 keywords: Durumeric, Zakir Durumeric, Zakir B Durumeric, durumericz, zakirbpd, zakird
 ---
 {% include JB/setup %}

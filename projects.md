@@ -21,5 +21,8 @@ mirrortools is a collection of stored procedures that allow easy manipulation an
 #### [pymetapeople: Python MetaPeople Interface](https://groupshare.uiowa.edu/projects/identity)
 pymetapeople is a Python module that allows for simple pythonic access to Identity data at The University of Iowa through the MetaPeople SOAP service. Information on the MetaPeople Service and the pymetapeople code base can be found [here](https://groupshare.uiowa.edu/projects/identity) (UI only).
 
+#### [risops: RIS Operations Platform]()
+risops is the operations framework that I led the architecture of while at The University of Iowa. The framework serves as middleware between heterogenous systems developed and maintained under the Office of the VP for Research providing transparent data sharing between services as well as central identity and authorization management, assured service (de-)provisioning, and log management.
+
 #### [OpenReport: An Open Source Web Reporting Framework](#)
 I am currently in the midst developing OpenReport, an open source and platform independent web reporting framework similar to Microsoft Reporting Services and Crystal Reports written in Python. While I'm not planning to replicate every design feature within SSRS, I am I am hoping to have a framework that allows typical reports to be deployed more quickly to the web and can be easily extended. I hope to have an initial public release by the end of the calendar year.
