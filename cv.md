@@ -17,6 +17,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 	<li>Bob and Betty Beyster Building</li>
 	<li>2260 Hayward Street</li>
 	<li>Ann Arbor, MI  48109-2121</li>
+	<li>United States</li>
 	</ul>
 	</div>
 
@@ -24,8 +25,8 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 
 <div class="talk">
 	<div class="right">
-	<p>2011 - present</p>
-	</div>
+	  <p>2011 - present</p>
+  </div>
 <p><a href="https://www.umich.edu">The University of Michigan</a></p>
 <ul>
 <li>Ph.D. Computer Science and Engineering</li>
@@ -34,10 +35,10 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 </div>
 
 <div class="talk">
+  <div class="right">
+  <p>2007 - 2011</p>
+  </div>
 <p><a href="https://www.uiowa.edu">The University of Iowa</a></p>
-<div class="right">
-<p>2007 - 2011</p>
-</div>
 <ul>
 	<li>B.S. Computer Science, B.S. Mathematics</li>
 	<li>Presidential Scholar (2007-2011)</li>
@@ -49,7 +50,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 <p><a href="https://factorable.net/paper.html">Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</a></p>
 <ul>
 	<li>Nadia Heninger, Zakir Durumeric, Eric Wustrow, Alex Halderman</li>
-	<li>21st USENIX Security Symposium -- August 2012 -- Best Paper Award</li>
+	<li>21st USENIX Security Symposium -- August 2012 -- <em>Best Paper Award</em></li>
 	
 </ul>
 </div>
@@ -58,6 +59,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 <div class="talk">
 <p><a>Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</a></p>
 <ul>
+  <li>University of Michigan -- November 12, 2012</li>
 	<li>21st USENIX Security Symposium -- August 9, 2012</li>
 	<li>The University of Iowa -- June 28, 2012 -- invited</li>
 </ul>
@@ -106,6 +108,15 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 </div>
 
 #### Teaching Experience
+<div class="job">
+	<div class="right"><p>Spring 2013</p></div>
+<p><a href="https://www.eecs.umich.edu/courses/eecs588/">Graduate Computer and Network Security</a></p>
+<p>The University of Michigan</p>
+<ul>
+  <li>Advised students on research projects</li>
+	<li>Assisted in teaching lecture</li>	
+</ul>
+</div>
 <div class="job">
 	<div class="right"><p>Fall 2012</p></div>
 <p><a>Introduction to Computer Security</a></p>
