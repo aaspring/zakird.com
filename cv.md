@@ -47,6 +47,15 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 
 #### Peer-Reviewed Publications
 <div class="talk">
+<p><a href="#">ZMap: Fast Internet-Wide Scanning and its Security Applications</a></p>
+<ul>
+	<li>Zakir Durumeric, Eric Wustrow, Alex Halderman</li>
+	<li>To Appear: 22nd USENIX Security Symposium -- August 2013</li>
+	
+</ul>
+</div>
+
+<div class="talk">
 <p><a href="https://factorable.net/paper.html">Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</a></p>
 <ul>
 	<li>Nadia Heninger, Zakir Durumeric, Eric Wustrow, Alex Halderman</li>
@@ -61,7 +70,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 <ul>
   <li>University of Michigan -- November 12, 2012</li>
 	<li>21st USENIX Security Symposium -- August 9, 2012</li>
-	<li>The University of Iowa -- June 28, 2012 -- invited</li>
+	<li>The University of Iowa -- June 28, 2012</li>
 </ul>
 </div>
 
@@ -136,7 +145,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 <p><a href="http://www.uiowa.edu/~our/opmanual/i/028.htm#2814">Presidential Charter Committee on Lectures</a></p>
 <p>Office of the President, The University of Iowa</p>
 <ul>
-	<li>Chaired Presidential Charter Committee responsible for bringing influential speakers to campus and executing University Lecture Series</li>
+	<li>Chaired Presidential Charter Committee responsible for bringing influential speakers to campus and executing <a href="http://lectures.uiowa.edu">University Lecture Series</a></li>
 	<li>Committee Chair Sept 2010 – Aug 2011</li>
 </ul>
 </div>
@@ -152,6 +161,17 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 </ul>
 </div>
 
+
+<div class="job">
+	<div class="right">
+	<p>Aug 2007 – May 2011</p>
+	</div>
+<p><a href="http://ccdfestival.uiowa.edu/">Cultural Diversity Festival Planning Committee</a></p>
+<p>Chief Diversity Office, The University of Iowa</p>
+<ul>
+	<li>Chaired committee responsible for planning and logistics of performances and events at campus- wide Cultural Diversity Festival (3rd largest non-athletic University event)</li>
+</ul>
+</div>
 <div class="job">
 	<div class="right">
 	<p>Aug 2007 – May 2009</p>
@@ -162,6 +182,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 	<li>Advised CIO and senior IT leaders on campus-wide IT strategy and policy</li>
 </ul>
 </div>
+
 
 #### Awards and Honors
 <div class="job">

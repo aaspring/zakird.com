@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "USENIX Security 2012 -- Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices"
+title: "USENIX Security 2012 -- Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices -- Best Paper Award"
 description: 'We are excited to be releasing our full scientific study on weak keys, "Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices" which will appear at USENIX Security 2012. In the study we find that at least 5.57% of TLS hosts and 9.60% of SSH hosts use repeated keys in an apparently vulnerable manner and that even more alarmingly, we are able to obtain RSA private keys for 0.50% of TLS hosts and 0.03% of SSH hosts, because their public keys shared nontrivial common factors due to entropy problems, and DSA private keys for 1.03% of SSH hosts, because of insufficient signature randomness.'
 category:
 tags: ["index_long"]
+link: "https://factorable.net/paper.html"
 ---
 {% include JB/setup %}
 

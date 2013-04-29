@@ -4,6 +4,7 @@ title: "No need to panic over factorable keys–just mind your Ps and Qs"
 description: "You may have seen the preprint posted today by Lenstra et al. about entropy problems in public keys. Nadia Heninger, Eric Wustrow, Alex Halderman, and I have been waiting to talk about some similar results. We will be publishing a full paper after the relevant manufacturers have been notified. Meanwhile, we’d like to give a more complete explanation of what’s really going on. We have been able to remotely compromise about 0.4% of all the public keys used for SSL web site security. The keys we were able to compromise were generated incorrectly–using predictable “random” numbers that were sometimes repeated. There were two kinds of problems: keys that were generated with predictable randomness, and a subset of these, where the lack of randomness allows a remote attacker to efficiently factor the public key and obtain the private key."
 category: "research"
 tags: ["research", "security", "ssl", "index_long"]
+link: "https://freedom-to-tinker.com/blog/nadiah/new-research-theres-no-need-panic-over-factorable-keys-just-mind-your-ps-and-qs"
 ---
 {% include JB/setup %}
 
