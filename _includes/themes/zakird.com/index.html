@@ -10,7 +10,7 @@
     {% for post in site.tags.index_short %}
     <div class="col">
 	    <h3><a href="{%if post.link %}{{post.link}}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a></h3>
-        <p>{{ post.description }} &not; <a href="{{ post.url }}">read more</a></p>
+        <p>{{ post.description }}</p>
     </div>
     {% endfor %}
 </div>
@@ -19,7 +19,7 @@
     {% for post in site.tags.index_long %}
     <div class="col last">
 	<h3><a href="{%if post.link %}{{post.link}}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a></h3>
-        <p>{{ post.description }} &not; <a href="{{ post.url }}">read more</a></p>
+        <p>{{ post.description }}</p>
     </div>
     {% endfor %}
 </div>
