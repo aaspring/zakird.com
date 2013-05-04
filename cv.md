@@ -25,7 +25,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 
 <div class="talk">
 	<div class="right">
-	  <p>2011 - present</p>
+	  <p>2013 - present</p>
   </div>
 <p><a href="https://www.umich.edu">The University of Michigan</a></p>
 <ul>
@@ -33,6 +33,17 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 <li>Advisor: Professor J. Alex Halderman</li>
 </ul>
 </div>
+
+<div class="talk">
+	<div class="right">
+	  <p>2011 - 2013</p>
+  </div>
+<p><a href="https://www.umich.edu">The University of Michigan</a></p>
+<ul>
+<li>M.S. Computer Science and Engineering</li>
+</ul>
+</div>
+
 
 <div class="talk">
   <div class="right">
