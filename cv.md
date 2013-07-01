@@ -61,7 +61,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 <p><a href="#">ZMap: Fast Internet-Wide Scanning and its Security Applications</a></p>
 <ul>
 	<li>Zakir Durumeric, Eric Wustrow, Alex Halderman</li>
-	<li>To Appear: 22nd USENIX Security Symposium -- August 2013</li>
+	<li>22nd USENIX Security Symposium -- August 2013</li>
 	
 </ul>
 </div>
@@ -71,6 +71,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 <ul>
 	<li>Nadia Heninger, Zakir Durumeric, Eric Wustrow, Alex Halderman</li>
 	<li>21st USENIX Security Symposium -- August 2012 -- <em>Best Paper Award</em></li>
+	<li>Named one of ACM Computing Reviews’ <a href="http://www.computingreviews.com/recommend/bestof/notableitems_2012.cfm">Notable Computing Books and Articles of 2012</a>.</li>
 	
 </ul>
 </div>
