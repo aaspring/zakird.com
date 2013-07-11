@@ -58,10 +58,19 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 
 #### Peer-Reviewed Publications
 <div class="talk">
-<p><a href="#">ZMap: Fast Internet-Wide Scanning and its Security Applications</a></p>
+<p><a href="">Analysis of the HTTPS Certificate Ecosystem </a></p>
 <ul>
-	<li>Zakir Durumeric, Eric Wustrow, Alex Halderman</li>
-	<li>22nd USENIX Security Symposium -- August 2013</li>
+	<li>Zakir Durumeric, James Kasten, Michael Bailey, J. Alex Halderman</li>
+	<li>To Appear: 13th Internet Measurement Conference (IMC'13), October 2013</li>
+	
+</ul>
+</div>
+
+<div class="talk">
+<p><a href="">ZMap: Fast Internet-Wide Scanning and its Security Applications</a></p>
+<ul>
+	<li>Zakir Durumeric, Eric Wustrow, J. Alex Halderman</li>
+	<li>To Appear: 22nd USENIX Security Symposium, August 2013</li>
 	
 </ul>
 </div>
@@ -69,9 +78,9 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 <div class="talk">
 <p><a href="https://factorable.net/paper.html">Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</a></p>
 <ul>
-	<li>Nadia Heninger, Zakir Durumeric, Eric Wustrow, Alex Halderman</li>
-	<li>21st USENIX Security Symposium -- August 2012 -- <em>Best Paper Award</em></li>
-	<li>Named one of ACM Computing Reviews’ <a href="http://www.computingreviews.com/recommend/bestof/notableitems_2012.cfm">Notable Computing Books and Articles of 2012</a>.</li>
+	<li>Nadia Heninger, Zakir Durumeric, Eric Wustrow, J. Alex Halderman</li>
+	<li>21st USENIX Security Symposium, August 2012 -- <em>Best Paper Award</em></li>
+	<li>ACM Computing Reviews’ <a href="http://www.computingreviews.com/recommend/bestof/notableitems_2012.cfm">Notable Computing Books and Articles of 2012</a>.</li>
 	
 </ul>
 </div>
