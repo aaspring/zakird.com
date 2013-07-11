@@ -4,7 +4,7 @@ title: curriculum vitæ
 ---
 {% include JB/setup %}
 
-I am a first year Ph.D. pre-candidate and research fellow in Computer Science and Engineering at the [University of Michigan](https://eecs.umich.edu) where my research is primarily focused on applied systems security and security policy; I am advised by [Professor J. Alex Halderman](https://jhalderm.com/). I am an American citizen.
+I am a Ph.D. candidate and research fellow in Computer Science and Engineering at the [University of Michigan](https://eecs.umich.edu) where my research is primarily focused on applied systems security and security policy; I am advised by [Professor J. Alex Halderman](https://jhalderm.com/). I am an American citizen.
 
 
 #### Contact Information
@@ -139,12 +139,23 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 
 #### Teaching Experience
 <div class="job">
+	<div class="right"><p>Summer 2013</p></div>
+<p><a>ICOS Big Data Boot Camp</a></p>
+<p>The University of Michigan</p>
+<ul>
+  <li>Taught introductory sessions on Python programming</li>
+  <li>Advised students on research projects</li>
+
+</ul>
+</div>
+
+<div class="job">
 	<div class="right"><p>Spring 2013</p></div>
 <p><a href="https://www.eecs.umich.edu/courses/eecs588/">Graduate Computer and Network Security</a></p>
 <p>The University of Michigan</p>
 <ul>
   <li>Advised students on research projects</li>
-	<li>Assisted in teaching lecture</li>	
+	<li>Assisted in teaching main lectures</li>
 </ul>
 </div>
 <div class="job">
