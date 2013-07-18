@@ -6,8 +6,11 @@ title: Projects
 
 I do my best to publish and actively maintain code that I believe might be useful to others; most of it is available on [github](https://github.com/zakird). Below are a few of the projects on which I have recently worked.
 
-#### [pyad: Python Active Directory Tools](https://github.com/zakird/pyad)
-pyad is a comprehensive Python library for managing [Microsoft Active Directory](http://www.microsoft.com/en-us/server-cloud/windows-server/active-directory.aspx) via the [pywin32](sourceforge.net/projects/pywin32) provided Windows API. The library is designed to provide a simple, object-oriented interface to Active Directory without requiring in-depth knowledge of ADSI nor how to work with Win32 API in Python. A tutorial is available [here](index.html). The project is hosted on [github](https://github.com/zakird/pyad) and can be installed via [pypi](http://pypi.python.org/pypi/pyad). 
+#### [ZMap: The Internet Scanner]()
+ZMap is an open-source network scanner specifically architected to perform Internet-wide scans and capable of surveying the entire IPv4 address space in under 45 minutes from user space on a single Linux machine, approaching the theoretical maximum speed of gigabit Ethernet. We will be releasing the scanner in August 2013 at the 22nd USENIX Security Symposium.
+
+#### [pyad: Python Active Directory Tools](https://zakird.com/pyad)
+pyad is a comprehensive Python library for managing [Microsoft Active Directory](http://www.microsoft.com/en-us/server-cloud/windows-server/active-directory.aspx) via the [pywin32](sourceforge.net/projects/pywin32) provided Windows API. The library is designed to provide a simple, object-oriented interface to Active Directory without requiring in-depth knowledge of ADSI nor how to work with Win32 API in Python. Documentation is available [here](https://zakird.com/pyad). Code is hosted on [github](https://github.com/zakird/pyad) and can be installed via [pypi](http://pypi.python.org/pypi/pyad). 
 
 #### [factorable.net: The Online Key Check Serivce](https://factorable.net/keycheck.html)
 [factorable.net](https://factorable.net/keycheck.html) is an online service that allows end users and administrators to test TLS certificates and SSH host keys against our known database of factorable RSA keys, compromised DSA keys, Debian weak keys, and Snake-oil keys as well as report information on where a key or certificate has been seen before. The tool was released as part of the [<i>Widespread Weak Keys in Network Devices</i>](https://factorable.net) project.
