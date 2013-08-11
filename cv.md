@@ -4,7 +4,7 @@ title: curriculum vitæ
 ---
 {% include JB/setup %}
 
-I am a Ph.D. candidate and research fellow in Computer Science and Engineering at the [University of Michigan](https://eecs.umich.edu) where my research is primarily focused on applied systems security and security policy; I am advised by [Professor J. Alex Halderman](https://jhalderm.com/). I am an American citizen.
+I am a Ph.D. candidate and research fellow in Computer Science and Engineering at the [University of Michigan](https://eecs.umich.edu) where my research is primarily focused on applied systems security and security policy; I am advised by [Professor J. Alex Halderman](https://jhalderm.com/) and also frequently collaborate with [Professor Michael Bailey](https://web.eecs.umich.edu/~mibailey/).
 
 
 #### Contact Information
