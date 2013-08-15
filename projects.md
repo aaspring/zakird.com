@@ -6,7 +6,7 @@ title: Projects
 
 I do my best to publish and actively maintain code that I believe might be useful to others; most of it is available on [github](https://github.com/zakird). Below are a few of the projects on which I have recently worked.
 
-#### [ZMap: The Internet Scanner]()
+#### [ZMap: The Internet Scanner](https://zmap.io)
 ZMap is an open-source network scanner specifically architected to perform Internet-wide scans and capable of surveying the entire IPv4 address space in under 45 minutes from user space on a single Linux machine, approaching the theoretical maximum speed of gigabit Ethernet. We will be releasing the scanner in August 2013 at the 22nd USENIX Security Symposium.
 
 #### [pyad: Python Active Directory Tools](https://zakird.com/pyad)
