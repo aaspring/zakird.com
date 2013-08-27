@@ -4,12 +4,12 @@ title: curriculum vitæ
 ---
 {% include JB/setup %}
 
-I am a Ph.D. candidate and research fellow in Computer Science and Engineering at the [University of Michigan](https://eecs.umich.edu) where my research is primarily focused on applied systems security and security policy; I am advised by [Professor J. Alex Halderman](https://jhalderm.com/) and also frequently collaborate with [Professor Michael Bailey](https://web.eecs.umich.edu/~mibailey/).
+I am a Ph.D. candidate in [Computer Science and Engineering](https://www.cse.umich.edu) at the [University of Michigan](https://umich.edu) where my research is primarily focused on applied systems security and security policy; I am advised by [Professor J. Alex Halderman](https://jhalderm.com/) and also frequently collaborate with [Professor Michael Bailey](https://web.eecs.umich.edu/~mibailey/).
 
 
 #### Contact Information
 
-I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by phone at (224) 286-4210. I maintain code on [github](https://github.com/zakird). My PGP key is available [here](gpg.html); my mailing address is:
+I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP key](gpg.html)) or by phone at (224) 286-4210. My address is:
 	<div class="address">
 	<ul>
 	<li>Zakir Durumeric</li>
@@ -56,22 +56,20 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 </ul>
 </div>
 
-#### Peer-Reviewed Publications
+#### Conference Publications
 <div class="talk">
-<p><a href="">Analysis of the HTTPS Certificate Ecosystem </a></p>
+<p><a>Analysis of the HTTPS Certificate Ecosystem </a></p>
 <ul>
 	<li>Zakir Durumeric, James Kasten, Michael Bailey, J. Alex Halderman</li>
 	<li>To Appear: 13th Internet Measurement Conference (IMC'13), October 2013</li>
-	
 </ul>
 </div>
 
 <div class="talk">
-<p><a href="">ZMap: Fast Internet-Wide Scanning and its Security Applications</a></p>
+<p><a href="https://zmap.io/paper.html">ZMap: Fast Internet-Wide Scanning and its Security Applications</a></p>
 <ul>
 	<li>Zakir Durumeric, Eric Wustrow, J. Alex Halderman</li>
-	<li>To Appear: 22nd USENIX Security Symposium, August 2013</li>
-	
+	<li>22nd USENIX Security Symposium (SEC'13), August 2013</li>
 </ul>
 </div>
 
@@ -79,13 +77,30 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) or by p
 <p><a href="https://factorable.net/paper.html">Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</a></p>
 <ul>
 	<li>Nadia Heninger, Zakir Durumeric, Eric Wustrow, J. Alex Halderman</li>
-	<li>21st USENIX Security Symposium, August 2012 -- <em>Best Paper Award</em></li>
+	<li>21st USENIX Security Symposium (SEC'12), August 2012 -- <em>Best Paper Award</em></li>
 	<li>ACM Computing Reviews’ <a href="http://www.computingreviews.com/recommend/bestof/notableitems_2012.cfm">Notable Computing Books and Articles of 2012</a>.</li>
-	
+</ul>
+</div>
+
+#### Refereed Workshop Publications
+
+<div class="talk">
+<p><a>IPv6 at the Edge of the Cloud</a></p>
+<ul>
+	<li>Brad Campbell, Zakir Durumeric, Prabal Dutta</li>
+	<li>To Appear: Swarm at the Edge of the Cloud (SEC'13), September 2013</li>
 </ul>
 </div>
 
 #### Selected Talks
+
+<div class="talk">
+<p><a href="https://www.usenix.org/conference/usenixsecurity13/zmap-fast-internet-wide-scanning-and-its-security-applications">ZMap: Fast Internet-Wide Scanning and its Security Applications</a></p>
+<ul>
+	<li>22nd USENIX Security Symposium -- August 16, 2013</li>
+</ul>
+</div>
+
 <div class="talk">
 <p><a>Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</a></p>
 <ul>
