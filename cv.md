@@ -82,7 +82,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 </ul>
 </div>
 
-#### Refereed Workshop Publications
+#### Workshop Publications, Technical Reports, and Posters
 
 <div class="talk">
 <p><a>IPv6 at the Edge of the Cloud</a></p>
