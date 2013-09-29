@@ -58,10 +58,10 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 
 #### Conference Publications
 <div class="talk">
-<p><a>Analysis of the HTTPS Certificate Ecosystem </a></p>
+<p><a href="https://jhalderm.com/pub/papers/https-imc13.pdf">Analysis of the HTTPS Certificate Ecosystem </a></p>
 <ul>
 	<li>Zakir Durumeric, James Kasten, Michael Bailey, J. Alex Halderman</li>
-	<li>To Appear: 13th Internet Measurement Conference (IMC'13), October 2013</li>
+	<li>13th Internet Measurement Conference (IMC'13), October 2013</li>
 </ul>
 </div>
 
@@ -88,7 +88,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 <p><a>IPv6 at the Edge of the Cloud</a></p>
 <ul>
 	<li>Brad Campbell, Zakir Durumeric, Prabal Dutta</li>
-	<li>To Appear: Swarm at the Edge of the Cloud (SEC'13), September 2013</li>
+	<li>Swarm at the Edge of the Cloud (SEC'13), September 2013</li>
 </ul>
 </div>
 
@@ -187,13 +187,20 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 
 <div class="job">
 	<div class="right">
+	<p>Sept 2013 – present</p>
+	</div>
+<p><a>Graduate Admissions Committee</a></p>
+<p>Computer Science and Engineering, The University of Michigan</p>
+</div>
+
+<div class="job">
+	<div class="right">
 	<p>Aug 2010 – Sept 2011</p>
 	</div>
 <p><a href="http://www.uiowa.edu/~our/opmanual/i/028.htm#2814">Presidential Charter Committee on Lectures</a></p>
 <p>Office of the President, The University of Iowa</p>
 <ul>
 	<li>Chaired Presidential Charter Committee responsible for bringing influential speakers to campus and executing <a href="http://lectures.uiowa.edu">University Lecture Series</a></li>
-	<li>Committee Chair Sept 2010 – Aug 2011</li>
 </ul>
 </div>
 
@@ -203,9 +210,6 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 	</div>
 <p><a href="http://clas.uiowa.edu/students/dsac">Dean's Student Advisory Committee</a></p>
 <p>College of Liberal Arts and Sciences, The University of Iowa</p>
-<ul>
-	<li>Advised the Dean and other administrators in the College of Liberal Arts and Sciences on a variety of student-related policies and issues</li>
-</ul>
 </div>
 
 
@@ -225,9 +229,6 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 	</div>
 <p><a href="http://www.uiowa.edu/~our/opmanual/i/028.htm#2807">Information Technology Advisory Committee</a></p>
 <p>Office of the President, The University of Iowa</p>
-<ul>
-	<li>Advised CIO and senior IT leaders on campus-wide IT strategy and policy</li>
-</ul>
 </div>
 
 
