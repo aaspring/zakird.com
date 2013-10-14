@@ -2,25 +2,28 @@
 body { font: .8em Georgia, "Times New Roman", Serif; background: #fff; color: #707070; }
 a { color: #8F0000; text-decoration: none; }
 	a:hover { color: #8F0000; text-decoration:underline; }
-p { line-height: 1.7em; margin: 0 0 15px; }
+p { line-height: 1.7em; margin: 0 0 8px; }
 .x { clear: both; }
 
-h1 { float: left; font-size: 2.3em; font-weight: normal; font-style: italic; padding: 0 0 25px 10px; margin: 0 0 0px; }
+h1 { float: left; font-size: 2.3em; font-weight: normal; padding: 0 0 25px 10px; margin: 0 0 0px; }
 	h1 a {color: #666; text-decoration: none; }
 	h1 a:hover {color: #555; text-decoration: none; }
 h2 { font-weight: normal; font-size: 2.6em; padding: 0 0 10px; margin: 0 0 15px; }
 h2 a { color: #666; }
-h3 { font-size: 1.7em; font-weight: normal; margin: 0 0 8px; }
+h3 { font-size: 1.7em; font-weight: normal; margin: 0 0 2px; }
 h3 a { color: #555; }
 h3 a:hover { color: #444; }
-h4 { margin: 20px 0 3px 0; }
+h4 { margin: 10px 0 3px 0; }
 h4 a { color: #555;}
 h4 a:hover { color: #333 }
+pre {margin-bottom: 20px; padding-bottom: 5px;}
 
 
 .leftixcol{ float: left; width: 290px; margin: 0 40px 30px 0}
 
 #content { width: 960px; margin: 40px auto; }
+
+
 
 .address {margin: 15px 0 20px 60px;}
 	.address li {list-style-type: none}
@@ -41,8 +44,10 @@ h4 a:hover { color: #333 }
 .blog {  clear: both; padding: 30px 10px; border-top: 1px solid #ddd; color: #555; margin-left:auto; margin-right:auto; 	}
 	.blog .title {margin-left:auto; margin-right:auto;  width:80%; color: #444}
 	.blog .content {margin-left:auto; margin-right:auto;  width:80%; font-size: 1.0em; text-align: justify;}
-	.blog h3 { font-size: 1.7em; font-weight: normal; margin: 0 0 0 0 }
+	.blog h3 { font-size: 1.7em; font-weight: normal; margin: margin: 25px 0 5px 0;}
 	.blog h3 a { color: #555; }
+	.blog h4 {margin: 20px 0 5px 0;}
+	.blog p {margin: 0 0 15px;}
 	
 .cv {  clear: both; padding: 30px 10px; border-top: 1px solid #ddd; color: #555; margin-left:auto; margin-right:auto; }
 	.cv .title {margin-left:auto; margin-right:auto;  width:65%; color: #444}
@@ -61,6 +66,7 @@ h4 a:hover { color: #333 }
 	.post .details .info { font-size: 1em; color: #999; }
 	.post .details .info a { color: #777; border-bottom: 1px dotted #999; padding: 3px 1px; }
 	.post .body { float: right; width: 618px; padding: 0 0 0 30px; border-left: 1px solid #ddd; font-size: 1.05em;}
+	.post #h2 {margin-bottom: 50px;}
 
 
 .col { width: 290px; margin: 0 40px 8px 0; float: left; font-size: .95em; padding: 0 0 0px 10px; }
@@ -76,4 +82,6 @@ IMG.displayed {
 	padding: 5px 0 0 0;
     display: block;
     float:right;}
+
+code {font-size: 1.2em;}
 

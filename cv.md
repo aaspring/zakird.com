@@ -94,19 +94,25 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 
 #### Selected Talks
 
-<div class="talk">
-<p><a href="https://www.usenix.org/conference/usenixsecurity13/zmap-fast-internet-wide-scanning-and-its-security-applications">ZMap: Fast Internet-Wide Scanning and its Security Applications</a></p>
+<div class="talk"><p><a href="http://conferences.sigcomm.org/imc/2013/program.html">Analysis of the HTTPS Certificate Ecosystem</a></p>
+<ul>
+	<li>2013 Internet Measurement Conference -- October 24, 2013</li>
+</ul>
+</div>
+	
+<div class="talk"><p><a href="https://www.usenix.org/conference/usenixsecurity13/zmap-fast-internet-wide-scanning-and-its-security-applications">ZMap: Fast Internet-Wide Scanning and its Security Applications</a></p>
 <ul>
 	<li>22nd USENIX Security Symposium -- August 16, 2013</li>
+	<li>Eurecom -- October 18, 2013 -- invited</li>
 </ul>
 </div>
 
 <div class="talk">
 <p><a>Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</a></p>
 <ul>
-  <li>University of Michigan -- November 12, 2012</li>
+  <li>University of Michigan -- November 12, 2012 -- invited</li>
 	<li>21st USENIX Security Symposium -- August 9, 2012</li>
-	<li>The University of Iowa -- June 28, 2012</li>
+	<li>The University of Iowa -- June 28, 2012 -- invited</li>
 </ul>
 </div>
 
@@ -189,7 +195,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 	<div class="right">
 	<p>Sept 2013 – present</p>
 	</div>
-<p><a>Graduate Admissions Committee</a></p>
+<p><a>Graduate Student Admissions Committee</a></p>
 <p>Computer Science and Engineering, The University of Michigan</p>
 </div>
 
@@ -245,3 +251,6 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
     <li>Arthur Collins Computer Science Scholarship, The University of Iowa</li>
 </ul>
 </div>
+
+#### Press Coverage
+Much of my research has garnered media attention including articles by the Washington Post, The Chronicle of Higher Education, The Register, ArsTechnica, Slashdot, Hacker News, Reddit, BoingBoing, Threat Post, and many others. I am generally happy to discuss my research with the press.

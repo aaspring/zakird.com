@@ -1,7 +1,6 @@
 <div class="blog">
 	<div class = "title">
-		<h3><a href="#">{{ page.title }}</a></h3>
-		<h4>Published {{ page.date | date_to_long_string }}</a></h4>
+		<h3><a href="#">{%if page.long_title %}{{ page.long_title }}{% else %}{{ page.title }}{% endif %}</a></h3>
 	</div>
 	<br/>
 	<div class="content">
