@@ -238,7 +238,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 
 #### Advising and Mentoring
 
-I have helped oversee the independent studies of and advised the following students:
+I have helped oversee the independent studies of and advise the following students:
 
 <div class="job">
 <ul>
