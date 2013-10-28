@@ -6,14 +6,13 @@ title: curriculum vitæ
 
 I am a Ph.D. candidate in [Computer Science and Engineering](https://www.cse.umich.edu) at the [University of Michigan](https://umich.edu) where my research is primarily focused on applied systems security and security policy; I am advised by [Professor J. Alex Halderman](https://jhalderm.com/) and also frequently collaborate with [Professor Michael Bailey](https://web.eecs.umich.edu/~mibailey/).
 
-
 #### Contact Information
 
 I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP key](gpg.html)) or by phone at (224) 286-4210. My address is:
 	<div class="address">
 	<ul>
 	<li>Zakir Durumeric</li>
-	<li>Computer Science and Engineering Dept</li>
+	<li>Department of Computer Science and Engineering</li>
 	<li>Bob and Betty Beyster Building</li>
 	<li>2260 Hayward Street</li>
 	<li>Ann Arbor, MI  48109-2121</li>
@@ -237,6 +236,17 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 <p>Office of the President, The University of Iowa</p>
 </div>
 
+#### Advising and Mentoring
+
+I have helped oversee the independent studies of and advised the following students:
+
+<div class="job">
+<ul>
+    <li>David Adrian</li>
+    <li>Andrew Modell</li>
+    <li>Jennifer O'Neil</li>
+</ul>
+</div>
 
 #### Awards and Honors
 <div class="job">
