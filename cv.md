@@ -95,14 +95,14 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 
 <div class="talk"><p><a href="http://conferences.sigcomm.org/imc/2013/program.html">Analysis of the HTTPS Certificate Ecosystem</a></p>
 <ul>
-	<li>2013 Internet Measurement Conference -- October 24, 2013</li>
+	<li>2013 Internet Measurement Conference -- October 24, 2013 <a href="slides/durumeric-https-imc13.pdf">[slides]</a></li>
 </ul>
 </div>
 	
 <div class="talk"><p><a href="https://www.usenix.org/conference/usenixsecurity13/zmap-fast-internet-wide-scanning-and-its-security-applications">ZMap: Fast Internet-Wide Scanning and its Security Applications</a></p>
 <ul>
-	<li>22nd USENIX Security Symposium -- August 16, 2013</li>
-	<li>Eurecom -- October 18, 2013 -- invited</li>
+	<li>22nd USENIX Security Symposium -- August 16, 2013 <a href="slides/zmap-talk-sec13.pdf">[slides]</a></li>
+	<li>Eurecom -- October 18, 2013 -- invited <a href="slides/eurecom-zmap-https.pdf">[slides]</a></li>
 </ul>
 </div>
 
