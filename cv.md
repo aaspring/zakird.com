@@ -57,7 +57,16 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 
 #### Conference Publications
 <div class="talk">
-<p><a href="https://jhalderm.com/pub/papers/https-imc13.pdf">Analysis of the HTTPS Certificate Ecosystem </a></p>
+<p><a>On the Mismanagement and Maliciousness of Networks</a></p>
+<ul>
+	<li>Jing Zhang, Zakir Durumeric, Michael Bailey, Manish Karir, Mingyan Liu</li>
+	<li>To Appear: Network and Distributed System Security Symposium (NDSS), February 2014</li>
+</ul>
+</div>
+
+
+<div class="talk">
+<p><a href="https://jhalderm.com/pub/papers/https-imc13.pdf">Analysis of the HTTPS Certificate Ecosystem</a></p>
 <ul>
 	<li>Zakir Durumeric, James Kasten, Michael Bailey, J. Alex Halderman</li>
 	<li>13th Internet Measurement Conference (IMC'13), October 2013</li>
