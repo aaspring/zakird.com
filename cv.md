@@ -4,7 +4,7 @@ title: curriculum vitæ
 ---
 {% include JB/setup %}
 
-I am a Ph.D. candidate in [Computer Science and Engineering](https://www.cse.umich.edu) at the [University of Michigan](https://umich.edu) where my research is primarily focused on applied systems security and security policy; I am advised by [Professor J. Alex Halderman](https://jhalderm.com/) and also frequently collaborate with [Professor Michael Bailey](https://web.eecs.umich.edu/~mibailey/).
+I am a Ph.D. candidate in [Computer Science and Engineering](https://www.cse.umich.edu) at the [University of Michigan](https://umich.edu) where my research is primarily focused on applied systems security and security policy. I am advised by [Professor J. Alex Halderman](https://jhalderm.com/) and also collaborate with [Professor Michael Bailey](https://web.eecs.umich.edu/~mibailey/).
 
 #### Contact Information
 
@@ -51,7 +51,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 <p><a href="https://www.uiowa.edu">The University of Iowa</a></p>
 <ul>
 	<li>B.S. Computer Science, B.S. Mathematics</li>
-	<li>Presidential Scholar (2007-2011)</li>
+	<li>Presidential Scholar</li>
 </ul>
 </div>
 
@@ -245,18 +245,6 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 <p>Office of the President, The University of Iowa</p>
 </div>
 
-#### Advising and Mentoring
-
-I have helped oversee the independent studies of and advise the following students:
-
-<div class="job">
-<ul>
-    <li>David Adrian</li>
-    <li>Andrew Modell</li>
-    <li>Jennifer O'Neil</li>
-</ul>
-</div>
-
 #### Awards and Honors
 <div class="job">
 <ul>
@@ -271,5 +259,3 @@ I have helped oversee the independent studies of and advise the following studen
 </ul>
 </div>
 
-#### Press Coverage
-Much of my research has garnered media attention including articles by the Washington Post, The Chronicle of Higher Education, The Register, ArsTechnica, Slashdot, Hacker News, Reddit, BoingBoing, Threat Post, and many others. I am generally happy to discuss my research with the press.
