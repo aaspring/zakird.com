@@ -23,10 +23,8 @@ pre {margin-bottom: 20px; padding-bottom: 5px;}
 
 #content { width: 960px; margin: 40px auto; }
 
-
-
 .address {margin: 15px 0 20px 60px;}
-	.address li {list-style-type: none}
+	.address li {list-style-type: none; margin-bottom: 3px;}
 
 .talk {margin: 0 0 0 0;}
 	.talk h4 {color: #111}
@@ -52,6 +50,7 @@ pre {margin-bottom: 20px; padding-bottom: 5px;}
 .cv {  clear: both; padding: 30px 10px; border-top: 1px solid #ddd; color: #555; margin-left:auto; margin-right:auto; }
 	.cv .title {margin-left:auto; margin-right:auto;  width:65%; color: #444}
 	.cv .content {margin-left:auto; margin-right:auto;  width:65%; font-size: 1.0em; text-align: justify;}
+	.cv h4 {margin-top: 25px; margin-bottom: 5px;}
 
 
 #menu { float: right; margin: 10px 10px 0 0; }

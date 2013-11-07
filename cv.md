@@ -4,7 +4,7 @@ title: curriculum vitæ
 ---
 {% include JB/setup %}
 
-I am a Ph.D. candidate in [Computer Science and Engineering](https://www.cse.umich.edu) at the [University of Michigan](https://umich.edu) where my research is primarily focused on applied systems security and security policy. I am advised by [Professor J. Alex Halderman](https://jhalderm.com/) and also collaborate with [Professor Michael Bailey](https://web.eecs.umich.edu/~mibailey/).
+I am a Ph.D. candidate in [Computer Science and Engineering](https://www.cse.umich.edu) at the [University of Michigan](https://umich.edu) where my research is primarily focused on applied systems security and security policy. I am advised by [Professor J. Alex Halderman](https://jhalderm.com/) and also frequently collaborate with [Professor Michael Bailey](https://web.eecs.umich.edu/~mibailey/).
 
 #### Contact Information
 
@@ -12,7 +12,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 	<div class="address">
 	<ul>
 	<li>Zakir Durumeric</li>
-	<li>Department of Computer Science and Engineering</li>
+	<li>Computer Science and Engineering</li>
 	<li>Bob and Betty Beyster Building</li>
 	<li>2260 Hayward Street</li>
 	<li>Ann Arbor, MI  48109-2121</li>
@@ -112,31 +112,27 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 <ul>
 	<li>22nd USENIX Security Symposium -- August 16, 2013 [<a href="slides/zmap-talk-sec13.pdf">slides</a>] [<a href="https://www.usenix.org/conference/usenixsecurity13/zmap-fast-internet-wide-scanning-and-its-security-applications">video</a>]</li>
 	<li>Eurecom -- October 18, 2013 -- invited [<a href="slides/eurecom-zmap-https.pdf">slides</a>]</li>
+	 <li>University of Michigan -- November 6, 2013</li>
 </ul>
 </div>
 
 <div class="talk">
 <p><a>Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</a></p>
 <ul>
-  <li>University of Michigan -- November 12, 2012 -- invited</li>
+ 	 <li>The University of Iowa -- June 28, 2012 -- invited</li>
 	<li>21st USENIX Security Symposium -- August 9, 2012</li>
-	<li>The University of Iowa -- June 28, 2012 -- invited</li>
+	<li>University of Michigan -- November 12, 2012</li>
+	
 </ul>
 </div>
 
 <div class="talk">
 <p><a>Architecting the RISOPS Identity Management Framework</a></p>
 <ul>
-	<li>The University of Iowa -- June 15, 2011 -- invited</li>
+	<li>The University of Iowa -- June 15, 2011</li>
 </ul>
 </div>
 
-<div class="talk">
-<p><a>ACID2 Compliant Multi-Building Database Redundancy with SQL Server Mirroring</a></p>
-<ul>
-	<li>Iowa sqlSaturday -- October 17, 2009 -- invited</li>
-</ul>
-</div>
 
 #### Relevant Experience
 <div class="job">
@@ -248,6 +244,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 #### Awards and Honors
 <div class="job">
 <ul>
+	<li>1st Place, 2013 CSE Graduate Student Honors Competition, The University of Michigan</li>
     <li>Best Paper Award, 21st USENIX Security Symposium, Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</li>
     <li>2nd Place, 2012 CSE Graduate Student Honors Competition, The University of Michigan</li>
     <li>CSE Graduate Fellowship, The University of Michigan</li>
