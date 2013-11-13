@@ -78,9 +78,11 @@ pre {margin-bottom: 20px; padding-bottom: 5px;}
 #footer { clear: both; border-top: 1px solid #ddd; padding: 20px 0; font-size: .9em; color: #999; }
 
 IMG.displayed {
-	padding: 5px 0 0 0;
     display: block;
-    float:right;}
+	
+	margin-left: 45px;
+	margin-right: auto;
+	}
 
 code {font-size: 1.2em;}
 
