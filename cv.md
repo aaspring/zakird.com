@@ -222,7 +222,6 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 <p>College of Liberal Arts and Sciences, The University of Iowa</p>
 </div>
 
-
 <div class="job">
 	<div class="right">
 	<p>Aug 2007 – May 2011</p>
@@ -240,6 +239,20 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 <p><a href="http://www.uiowa.edu/~our/opmanual/i/028.htm#2807">Information Technology Advisory Committee</a></p>
 <p>Office of the President, The University of Iowa</p>
 </div>
+
+#### Advising
+
+<p>I have helped advise and oversee the independent studies of the following undergraduate students:</p>
+<div class="job">
+<ul>
+	<li>David Adrian</li>
+	<li>Andy Modell</li>
+	<li>Jennifer O'Neill</li>
+</ul>
+
+</div>
+
+
 
 #### Awards and Honors
 <div class="job">
