@@ -55,11 +55,11 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 </ul>
 </div>
 
-#### Conference Publications
+#### Peer-Reviewed Research Papers
 <div class="talk">
 <p><a>On the Mismanagement and Maliciousness of Networks</a></p>
 <ul>
-	<li>Jing Zhang, Zakir Durumeric, Michael Bailey, Manish Karir, Mingyan Liu</li>
+	<li>Jing Zhang, Zakir Durumeric, Michael Bailey, Manish Karir, and Mingyan Liu</li>
 	<li>To Appear: Network and Distributed System Security Symposium (NDSS), February 2014</li>
 </ul>
 </div>
@@ -68,7 +68,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 <div class="talk">
 <p><a href="https://jhalderm.com/pub/papers/https-imc13.pdf">Analysis of the HTTPS Certificate Ecosystem</a></p>
 <ul>
-	<li>Zakir Durumeric, James Kasten, Michael Bailey, J. Alex Halderman</li>
+	<li>Zakir Durumeric, James Kasten, Michael Bailey, and J. Alex Halderman</li>
 	<li>13th Internet Measurement Conference (IMC'13), October 2013</li>
 </ul>
 </div>
@@ -76,7 +76,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 <div class="talk">
 <p><a href="https://zmap.io/paper.html">ZMap: Fast Internet-Wide Scanning and its Security Applications</a></p>
 <ul>
-	<li>Zakir Durumeric, Eric Wustrow, J. Alex Halderman</li>
+	<li>Zakir Durumeric, Eric Wustrow, and J. Alex Halderman</li>
 	<li>22nd USENIX Security Symposium (SEC'13), August 2013</li>
 </ul>
 </div>
@@ -84,18 +84,24 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 <div class="talk">
 <p><a href="https://factorable.net/paper.html">Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</a></p>
 <ul>
-	<li>Nadia Heninger, Zakir Durumeric, Eric Wustrow, J. Alex Halderman</li>
+	<li>Nadia Heninger, Zakir Durumeric, Eric Wustrow, and J. Alex Halderman</li>
 	<li>21st USENIX Security Symposium (SEC'12), August 2012 -- <em>Best Paper Award</em></li>
 	<li>ACM Computing Reviews’ <a href="http://www.computingreviews.com/recommend/bestof/notableitems_2012.cfm">Notable Computing Books and Articles of 2012</a>.</li>
 </ul>
 </div>
 
 #### Workshop Publications, Technical Reports, and Posters
+<div class="talk">
+<p><a href="https://jhalderm.com/pub/papers/smartwatch13.pdf">Outsmarting Proctors with Smartwatches: A Case Study on Wearable Computing Security</a></p>
+<ul>
+	<li>Alex Migicovsky, Zakir Durumeric, Jeﬀ Ringenberg, and J. Alex Halderman</li>
+</ul>
+</div>
 
 <div class="talk">
 <p><a>IPv6 at the Edge of the Cloud</a></p>
 <ul>
-	<li>Brad Campbell, Zakir Durumeric, Prabal Dutta</li>
+	<li>Brad Campbell, Zakir Durumeric, and Prabal Dutta</li>
 	<li>Swarm at the Edge of the Cloud (SEC'13), September 2013</li>
 </ul>
 </div>
