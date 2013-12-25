@@ -174,7 +174,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 
 #### Teaching Experience
 <div class="job">
-	<div class="right"><p>Spring 2013</p></div>
+	<div class="right"><p>Spring 2014</p></div>
 <p><a href="https://www.eecs.umich.edu/courses/eecs588/">Graduate Computer and Network Security</a></p>
 <p>The University of Michigan</p>
 </div>
