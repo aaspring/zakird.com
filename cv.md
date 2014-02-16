@@ -261,9 +261,14 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 <p>I have helped advise and oversee the independent studies of the following undergraduate students:</p>
 <div class="job">
 <ul>
-	<li>David Adrian</li>
+	<li><a href="http://gulshansingh.com/">Gulshan Singh</a></li>
+	<li>Saam Aghevli</li>
+	<li>Ariana Mirian</li>
+	<li>Jack Miner</li>
+	<li>James Cheng</li>
+	<li><a href="http://davidadrian.org/">David Adrian</a></li>
 	<li>Andy Modell</li>
-	<li>Jennifer O'Neill</li>
+	<li>Jennifer O'Neill -> Narrative Science</li>
 </ul>
 
 </div>
