@@ -68,10 +68,10 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 
 
 <div class="talk">
-<p><a>On the Mismanagement and Maliciousness of Networks</a></p>
+<p><a href="http://www.internetsociety.org/sites/default/files/01_1_1.pdf">On the Mismanagement and Maliciousness of Networks</a></p>
 <ul>
 	<li>Jing Zhang, Zakir Durumeric, Michael Bailey, Manish Karir, and Mingyan Liu</li>
-	<li>To Appear: Network and Distributed System Security Symposium (NDSS), February 2014</li>
+	<li>Network and Distributed System Security Symposium (NDSS), February 2014</li>
 </ul>
 </div>
 
