@@ -61,7 +61,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 <p><a href="https://jhalderm.com/pub/papers/smartwatch13.pdf">Outsmarting Proctors with Smartwatches: A Case Study on Wearable Computing Security</a></p>
 <ul>
 	<li>Alex Migicovsky, Zakir Durumeric, Jeﬀ Ringenberg, and J. Alex Halderman</li>
-	<li>To Appear: Financial Cryptography and Data Security, March 2014</li>
+	<li>Financial Cryptography and Data Security, March 2014</li>
 </ul>
 </div>
 
