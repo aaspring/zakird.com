@@ -131,6 +131,8 @@ The certificate subject and issuer can be easily extracted and represented as a 
 	char *issuer = X509_NAME_oneline(X509_get_issuer_name(cert), NULL, 0);
 {% endhighlight %}
 
+These can be freed by calling `OPENSSL_free`.
+
 By default, the subject and issuer are returned in the following form:
 
 		/C=US/ST=California/L=Mountain View/O=Google Inc/CN=*.google.com
