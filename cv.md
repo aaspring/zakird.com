@@ -58,14 +58,20 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 #### Peer-Reviewed Research Papers
 
 <div class="talk">
+<p><a>An Internet-wide View of Internet-wide Scanning</a></p>
+<ul>
+	<li>Zakir Durumeric, Michael Bailey, and J. Alex Halderman</li>
+	<li>To Appear: 23rd USENIX Security Symposium, August 2014</li>
+</ul>
+</div>
+
+<div class="talk">
 <p><a href="https://jhalderm.com/pub/papers/smartwatch13.pdf">Outsmarting Proctors with Smartwatches: A Case Study on Wearable Computing Security</a></p>
 <ul>
 	<li>Alex Migicovsky, Zakir Durumeric, Jeﬀ Ringenberg, and J. Alex Halderman</li>
 	<li>Financial Cryptography and Data Security, March 2014</li>
 </ul>
 </div>
-
-
 
 <div class="talk">
 <p><a href="http://www.internetsociety.org/sites/default/files/01_1_1.pdf">On the Mismanagement and Maliciousness of Networks</a></p>
@@ -117,7 +123,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 	<li>2013 Internet Measurement Conference -- October 24, 2013 [<a href="slides/durumeric-https-imc13.pdf">slides</a>]</li>
 </ul>
 </div>
-	
+
 <div class="talk"><p><a href="https://www.usenix.org/conference/usenixsecurity13/zmap-fast-internet-wide-scanning-and-its-security-applications">ZMap: Fast Internet-Wide Scanning and its Security Applications</a></p>
 <ul>
 	<li>22nd USENIX Security Symposium -- August 16, 2013 [<a href="slides/zmap-talk-sec13.pdf">slides</a>] [<a href="https://www.usenix.org/conference/usenixsecurity13/zmap-fast-internet-wide-scanning-and-its-security-applications">video</a>]</li>
