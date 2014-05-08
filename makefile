@@ -2,4 +2,5 @@ all: build
 
 build:
 	git pull
-	jekyll --no-future --no-server --no-auto
+	sudo jekyll build
+	chmod -r www-data:www-data *
