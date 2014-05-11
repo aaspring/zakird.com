@@ -26,7 +26,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 	<div class="right">
 	  <p>2013 - present</p>
   </div>
-<p><a href="https://www.umich.edu">The University of Michigan</a></p>
+<p><a href="https://www.umich.edu">University of Michigan</a></p>
 <ul>
 <li>Ph.D. Computer Science and Engineering</li>
 <li>Advisor: Professor J. Alex Halderman</li>
@@ -37,7 +37,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 	<div class="right">
 	  <p>2011 - 2013</p>
   </div>
-<p><a href="https://www.umich.edu">The University of Michigan</a></p>
+<p><a href="https://www.umich.edu">University of Michigan</a></p>
 <ul>
 <li>M.S. Computer Science and Engineering</li>
 </ul>
@@ -128,14 +128,15 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 <ul>
 	<li>22nd USENIX Security Symposium -- August 16, 2013 [<a href="slides/zmap-talk-sec13.pdf">slides</a>] [<a href="https://www.usenix.org/conference/usenixsecurity13/zmap-fast-internet-wide-scanning-and-its-security-applications">video</a>]</li>
 	<li>Eurecom -- October 18, 2013 -- invited [<a href="slides/eurecom-zmap-https.pdf">slides</a>]</li>
-	 <li>University of Michigan -- November 6, 2013</li>
+	<li>University of Michigan -- November 6, 2013</li>
+	<li>RIPE68 -- May 15, 2014 -- invited</li>
 </ul>
 </div>
 
 <div class="talk">
 <p><a>Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</a></p>
 <ul>
- 	 <li>The University of Iowa -- June 28, 2012 -- invited</li>
+ 	<li>The University of Iowa -- June 28, 2012 -- invited</li>
 	<li>21st USENIX Security Symposium -- August 9, 2012</li>
 	<li>University of Michigan -- November 12, 2012</li>
 	
@@ -182,13 +183,13 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 <div class="job">
 	<div class="right"><p>Spring 2014</p></div>
 <p><a href="https://www.eecs.umich.edu/courses/eecs588/">Graduate Computer and Network Security</a></p>
-<p>The University of Michigan</p>
+<p>University of Michigan</p>
 </div>
 
 <div class="job">
 	<div class="right"><p>Summer 2013</p></div>
 <p><a>ICOS Big Data Boot Camp</a></p>
-<p>The University of Michigan</p>
+<p>University of Michigan</p>
 <ul>
   <li>Taught introductory sessions on Python programming</li>
   <li>Advised students on research projects</li>
@@ -199,7 +200,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 <div class="job">
 	<div class="right"><p>Spring 2013</p></div>
 <p><a href="https://www.eecs.umich.edu/courses/eecs588/">Graduate Computer and Network Security</a></p>
-<p>The University of Michigan</p>
+<p>University of Michigan</p>
 <ul>
   <li>Advised students on research projects</li>
 	<li>Assisted in teaching main lectures</li>
@@ -208,7 +209,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 <div class="job">
 	<div class="right"><p>Fall 2012</p></div>
 <p><a>Introduction to Computer Security</a></p>
-<p>The University of Michigan</p>
+<p>University of Michigan</p>
 <ul>
 	<li>Led weekly recitation and instruction of applied course material</li>
 	<li>Developed course projects</li>
@@ -222,7 +223,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 	<p>Sept 2013 – present</p>
 	</div>
 <p><a>Graduate Student Admissions Committee</a></p>
-<p>Computer Science and Engineering, The University of Michigan</p>
+<p>Computer Science and Engineering, University of Michigan</p>
 </div>
 
 <div class="job">
@@ -284,10 +285,10 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP k
 #### Awards and Honors
 <div class="job">
 <ul>
-	<li>1st Place, 2013 CSE Graduate Student Honors Competition, The University of Michigan</li>
+	<li>1st Place, 2013 CSE Graduate Student Honors Competition, University of Michigan</li>
     <li>Best Paper Award, 21st USENIX Security Symposium, Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</li>
-    <li>2nd Place, 2012 CSE Graduate Student Honors Competition, The University of Michigan</li>
-    <li>CSE Graduate Fellowship, The University of Michigan</li>
+    <li>2nd Place, 2012 CSE Graduate Student Honors Competition, University of Michigan</li>
+    <li>CSE Graduate Fellowship, University of Michigan</li>
     <li>Presidential Scholar, The University of Iowa</li>
     <li>Old Gold Scholar, The University of Iowa</li>
     <li>Principal Financial Group Foundation Scholarship, The University of Iowa</li>
