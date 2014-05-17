@@ -8,7 +8,7 @@ I am a Ph.D. candidate in [Computer Science and Engineering](https://www.cse.umi
 
 #### Contact Information
 
-I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([PGP key](gpg.html)) or by phone at (224) 286-4210. My address is:
+I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG key](https://keybase.io/zakir)) or by phone at (224) 286-4210. My address is:
 	<div class="address">
 	<ul>
 	<li>Zakir Durumeric</li>
