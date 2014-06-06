@@ -129,7 +129,9 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 	<li>22nd USENIX Security Symposium -- August 16, 2013 [<a href="slides/zmap-talk-sec13.pdf">slides</a>] [<a href="https://www.usenix.org/conference/usenixsecurity13/zmap-fast-internet-wide-scanning-and-its-security-applications">video</a>]</li>
 	<li>Eurecom -- October 18, 2013 -- invited [<a href="slides/eurecom-zmap-https.pdf">slides</a>]</li>
 	<li>University of Michigan -- November 6, 2013</li>
-	<li>RIPE68 -- May 15, 2014 -- invited</li>
+	<li>RIPE68 -- May 15, 2014 -- invited [<a href="slides/zmap-ripe68.pdf">slides</a>]</li>
+	<li>Vrije Universiteit Amsterdam -- June 5, 2014 -- invited</li>
+	<li>IT University of Copenhagen -- June 9, 2014 -- invited</li>
 </ul>
 </div>
 
@@ -139,7 +141,6 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
  	<li>The University of Iowa -- June 28, 2012 -- invited</li>
 	<li>21st USENIX Security Symposium -- August 9, 2012</li>
 	<li>University of Michigan -- November 12, 2012</li>
-	
 </ul>
 </div>
 
