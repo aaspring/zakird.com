@@ -4,7 +4,7 @@ title: curriculum vitæ
 ---
 {% include JB/setup %}
 
-I am a Ph.D. candidate in [Computer Science and Engineering](https://www.cse.umich.edu) at the [University of Michigan](https://umich.edu) where my research is primarily focused on applied systems security and security policy. I am advised by [Professor J. Alex Halderman](https://jhalderm.com/) and also frequently collaborate with [Professor Michael Bailey](https://web.eecs.umich.edu/~mibailey/).
+I am a research fellow and Ph.D. candidate in [Computer Science and Engineering](https://www.cse.umich.edu) at the [University of Michigan](https://umich.edu) where my research is focused on applied systems security and security policy. I am advised by [Professor J. Alex Halderman](https://jhalderm.com/) and also frequently collaborate with [Professor Michael Bailey](https://web.eecs.umich.edu/~mibailey/). I am funded by a [Google Ph.D. Fellowship](http://googleresearch.blogspot.com/2014/06/2014-google-phd-fellowships-supporting.html).
 
 #### Contact Information
 
@@ -286,6 +286,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 #### Awards and Honors
 <div class="job">
 <ul>
+	<li>2014 Google Global Ph.D. Fellowship in Security</li>
 	<li>1st Place, 2013 CSE Graduate Student Honors Competition, University of Michigan</li>
     <li>Best Paper Award, 21st USENIX Security Symposium, Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</li>
     <li>2nd Place, 2012 CSE Graduate Student Honors Competition, University of Michigan</li>
