@@ -81,7 +81,6 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 </ul>
 </div>
 
-
 <div class="talk">
 <p><a href="https://jhalderm.com/pub/papers/https-imc13.pdf">Analysis of the HTTPS Certificate Ecosystem</a></p>
 <ul>
@@ -108,6 +107,14 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 </div>
 
 #### Workshop Publications, Technical Reports, and Posters
+<div class="talk">
+<p><a>Zippier ZMap: Internet-Wide Scanning at 10 Gbps</a></p>
+<ul>
+	<li>David Adrian, Zakir Durumeric, Gulshan Singh, J. Alex Halderman</li>
+	<li>To Appear: USENIX Workshop on Offensive Technologies (WOOT'14)</li>
+</ul>
+</div>
+
 <div class="talk">
 <p><a>IPv6 at the Edge of the Cloud</a></p>
 <ul>
