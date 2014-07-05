@@ -293,7 +293,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 #### Awards and Honors
 <div class="job">
 <ul>
-	<li>2014 Google Global Ph.D. Fellowship in Security</li>
+	<li>2014 Google Ph.D. Fellowship in Security</li>
 	<li>1st Place, 2013 CSE Graduate Student Honors Competition, University of Michigan</li>
     <li>Best Paper Award, 21st USENIX Security Symposium, Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</li>
     <li>2nd Place, 2012 CSE Graduate Student Honors Competition, University of Michigan</li>
