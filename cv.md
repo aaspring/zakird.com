@@ -56,6 +56,23 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 </div>
 
 #### Peer-Reviewed Research Papers
+<div class="talk">
+<p><a>The Matter of Heartbleed</a></p>
+<ul>
+	<li>Zakir Durumeric, James Kasten, Frank Li, Johanna Beekman, Bernhard Ammann</li>
+    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mathias Payer, Nicolas Weaver, J. Alex Halderman, Vern Paxson, Michael Bailey</li>
+	<li>To Appear: 14th Internet Measurement Conference (IMC'14), November 2014</li>
+</ul>
+</div>
+
+<div class="talk">
+<p><a>Security Analysis of the Estonian Internet Voting System</a></p>
+<ul>
+	<li>Drew Springall, Travis Finkenauer, Zakir Durumeric, Jason Kitcat,</li>
+    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Harri Hursti, Margaret MacAlpine and J. Alex Halderman</li>
+	<li>To Appear: ACM Computer and Communications Security (CCS), November 2014</li>
+</ul>
+</div>
 
 <div class="talk">
 <p><a href="https://jhalderm.com/pub/papers/scanning-sec14.pdf">An Internet-Wide View of Internet-Wide Scanning</a></p>
@@ -90,7 +107,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 </div>
 
 <div class="talk">
-<p><a href="https://zmap.io/paper.html">ZMap: Fast Internet-Wide Scanning and its Security Applications</a></p>
+<p><a href="https://zmap.io/paper.pdf">ZMap: Fast Internet-Wide Scanning and its Security Applications</a></p>
 <ul>
 	<li>Zakir Durumeric, Eric Wustrow, and J. Alex Halderman</li>
 	<li>22nd USENIX Security Symposium (SEC'13), August 2013</li>
