@@ -142,6 +142,14 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 
 #### Selected Talks
 
+<div class="talk">
+<p><a>An Internet-Wide View of Internet-Wide Scanning</a></p>
+<ul>
+	<li>23rd USENIX Security Symposium -- August 20, 2014 [<a href="slides/state-of-scanning-usenix14.pdf">slides</a>]</li>
+</ul>
+</div>
+
+
 <div class="talk"><p><a href="https://www.usenix.org/conference/usenixsecurity13/zmap-fast-internet-wide-scanning-and-its-security-applications">ZMap: Fast Internet-Wide Scanning and its Security Applications</a></p>
 <ul>
 	<li>22nd USENIX Security Symposium -- August 16, 2013 [<a href="slides/zmap-talk-sec13.pdf">slides</a>] [<a href="https://www.usenix.org/conference/usenixsecurity13/zmap-fast-internet-wide-scanning-and-its-security-applications">video</a>]</li>
