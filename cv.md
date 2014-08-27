@@ -4,7 +4,7 @@ title: curriculum vitæ
 ---
 {% include JB/setup %}
 
-I am a [Google Research Fellow](http://googleresearch.blogspot.com/2014/06/2014-google-phd-fellowships-supporting.html) and Ph.D. candidate in [Computer Science and Engineering](https://www.cse.umich.edu) at the [University of Michigan](https://umich.edu) where my research is focused on network security. I am advised by [Professor J. Alex Halderman](https://jhalderm.com/) and also frequently collaborate with [Professor Michael Bailey](https://web.eecs.umich.edu/~mibailey/).
+I am a [Google Research Fellow](http://googleresearch.blogspot.com/2014/06/2014-google-phd-fellowships-supporting.html) and Ph.D. candidate in [Computer Science and Engineering](https://www.cse.umich.edu) at the [University of Michigan](https://umich.edu) where my research focuses on network security. I am advised by [Professor J. Alex Halderman](https://jhalderm.com/) and also frequently collaborate with [Professor Michael Bailey](http://web.engr.illinois.edu/~mdbailey/).
 
 #### Contact Information
 

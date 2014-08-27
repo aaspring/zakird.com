@@ -64,7 +64,7 @@ pre {margin-bottom: 20px; padding-bottom: 5px;}
 	.post .details { float: left; width: 250px; }
 	.post .details .info { font-size: 1em; color: #999; }
 	.post .details .info a { color: #777; border-bottom: 1px dotted #999; padding: 3px 1px; }
-	.post .body { float: right; width: 618px; padding: 0 0 0 30px; border-left: 1px solid #ddd; font-size: 1.05em;}
+	.post .body { float: right; width: 618px; padding: 0 0 0 30px; border-left: 1px solid #ddd; font-size: 1.03em;}
 	.post #h2 {margin-bottom: 50px;}
 
 
