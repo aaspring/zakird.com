@@ -66,7 +66,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 </div>
 
 <div class="talk">
-<p><a>Security Analysis of the Estonian Internet Voting System</a></p>
+<p><a href="https://jhalderm.com/pub/papers/ivoting-ccs14.pdf">Security Analysis of the Estonian Internet Voting System</a></p>
 <ul>
 	<li>Drew Springall, Travis Finkenauer, Zakir Durumeric, Jason Kitcat,</li>
     <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Harri Hursti, Margaret MacAlpine and J. Alex Halderman</li>
