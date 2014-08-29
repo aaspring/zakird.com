@@ -128,7 +128,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 <p><a href="https://jhalderm.com/pub/papers/zmap10gig-woot14.pdf">Zippier ZMap: Internet-Wide Scanning at 10 Gbps</a></p>
 <ul>
 	<li>David Adrian, Zakir Durumeric, Gulshan Singh, J. Alex Halderman</li>
-	<li>To Appear: USENIX Workshop on Offensive Technologies (WOOT'14)</li>
+	<li>USENIX Workshop on Offensive Technologies (WOOT'14)</li>
 </ul>
 </div>
 
