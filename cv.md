@@ -59,8 +59,8 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 <div class="talk">
 <p><a>The Matter of Heartbleed</a></p>
 <ul>
-	<li>Zakir Durumeric, James Kasten, Frank Li, Johanna Amann, Jethro Beekman</li>
-    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mathias Payer, Nicolas Weaver, J. Alex Halderman, Vern Paxson, Michael Bailey</li>
+	<li>Zakir Durumeric, Frank Li, James Kasten, Johanna Amann, Jethro Beekman, Mathias Payer,</li>
+    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nicolas Weaver, David Adrian, Vern Paxson, Michael Bailey, J. Alex Halderman</li>
 	<li>To Appear: 14th Internet Measurement Conference (IMC'14), November 2014</li>
 </ul>
 </div>
