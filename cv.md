@@ -57,7 +57,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 
 #### Peer-Reviewed Research Papers
 <div class="talk">
-<p><a>The Matter of Heartbleed</a></p>
+<p><a href="https://jhalderm.com/pub/papers/heartbleed-imc14.pdf">The Matter of Heartbleed</a></p>
 <ul>
 	<li>Zakir Durumeric, Frank Li, James Kasten, Johanna Amann, Jethro Beekman, Mathias Payer,</li>
     <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nicolas Weaver, David Adrian, Vern Paxson, Michael Bailey, J. Alex Halderman</li>
