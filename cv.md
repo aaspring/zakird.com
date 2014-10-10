@@ -43,7 +43,6 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 </ul>
 </div>
 
-
 <div class="talk">
   <div class="right">
   <p>2007 - 2011</p>
@@ -142,13 +141,21 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 
 #### Selected Talks
 
+
+<div class="talk">
+<p><a>The Matter of Heartbleed</a></p>
+<ul>
+	<li>University of Illinois--Urbana Champaign -- October 9, 2014 [<a href="slides/heartbleed-uiuc.pdf">slides</a>]</li>
+	<li>2014 Internet Measurement Conference (IMC'14) -- Novmber 7, 2014</li>
+</ul>
+</div>
+
 <div class="talk">
 <p><a>An Internet-Wide View of Internet-Wide Scanning</a></p>
 <ul>
 	<li>23rd USENIX Security Symposium -- August 20, 2014 [<a href="slides/state-of-scanning-usenix14.pdf">slides</a>]</li>
 </ul>
 </div>
-
 
 <div class="talk"><p><a href="https://www.usenix.org/conference/usenixsecurity13/zmap-fast-internet-wide-scanning-and-its-security-applications">ZMap: Fast Internet-Wide Scanning and its Security Applications</a></p>
 <ul>
