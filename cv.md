@@ -60,7 +60,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 <ul>
 	<li>Zakir Durumeric, Frank Li, James Kasten, Johanna Amann, Jethro Beekman, Mathias Payer,</li>
     <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nicolas Weaver, David Adrian, Vern Paxson, Michael Bailey, J. Alex Halderman</li>
-	<li>To Appear: 14th Internet Measurement Conference (IMC'14), November 2014</li>
+	<li>ACM Internet Measurement Conference (IMC'14), November 2014</li>
 </ul>
 </div>
 
@@ -77,7 +77,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 <p><a href="https://jhalderm.com/pub/papers/scanning-sec14.pdf">An Internet-Wide View of Internet-Wide Scanning</a></p>
 <ul>
 	<li>Zakir Durumeric, Michael Bailey, and J. Alex Halderman</li>
-	<li>23rd USENIX Security Symposium, August 2014</li>
+	<li>USENIX Security Symposium, August 2014</li>
 </ul>
 </div>
 
@@ -101,7 +101,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 <p><a href="https://jhalderm.com/pub/papers/https-imc13.pdf">Analysis of the HTTPS Certificate Ecosystem</a></p>
 <ul>
 	<li>Zakir Durumeric, James Kasten, Michael Bailey, and J. Alex Halderman</li>
-	<li>13th Internet Measurement Conference (IMC'13), October 2013</li>
+	<li>ACM Internet Measurement Conference (IMC'13), October 2013</li>
 </ul>
 </div>
 
@@ -109,7 +109,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 <p><a href="https://zmap.io/paper.pdf">ZMap: Fast Internet-Wide Scanning and its Security Applications</a></p>
 <ul>
 	<li>Zakir Durumeric, Eric Wustrow, and J. Alex Halderman</li>
-	<li>22nd USENIX Security Symposium (SEC'13), August 2013</li>
+	<li>USENIX Security Symposium (SEC'13), August 2013</li>
 </ul>
 </div>
 
@@ -117,7 +117,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 <p><a href="https://factorable.net/paper.html">Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</a></p>
 <ul>
 	<li>Nadia Heninger, Zakir Durumeric, Eric Wustrow, and J. Alex Halderman</li>
-	<li>21st USENIX Security Symposium (SEC'12), August 2012 -- <em>Best Paper Award</em></li>
+	<li>USENIX Security Symposium (SEC'12), August 2012 -- <em>Best Paper Award</em></li>
 	<li>ACM Computing Reviews’ <a href="http://www.computingreviews.com/recommend/bestof/notableitems_2012.cfm">Notable Computing Books and Articles of 2012</a>.</li>
 </ul>
 </div>
@@ -145,8 +145,8 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 <div class="talk">
 <p><a>The Matter of Heartbleed</a></p>
 <ul>
-	<li>University of Illinois--Urbana Champaign -- October 9, 2014 [<a href="slides/heartbleed-uiuc.pdf">slides</a>]</li>
-	<li>2014 Internet Measurement Conference (IMC'14) -- Novmber 7, 2014</li>
+	<li>University of Illinois--Systems and Networking Seminar Series -- October 9, 2014 -- invited [<a href="slides/heartbleed-uiuc.pdf">slides</a>]</li>
+	<li>2014 Internet Measurement Conference (IMC'14) -- Novmber 7, 2014 [<a href="slides/heartbleed-imc.pdf">slides</a>] </li>
 </ul>
 </div>
 
@@ -310,10 +310,10 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 <ul>
 	<li><a href="http://gulshansingh.com/">Gulshan Singh</a></li>
 	<li>Saam Aghevli</li>
-	<li>Ariana Mirian</li>
+	<li><a href="http://www.linkedin.com/in/arianamirian">Ariana Mirian</a></li>
 	<li>Jack Miner</li>
 	<li>James Cheng</li>
-	<li><a href="http://davidadrian.org/">David Adrian</a></li>
+	<li><a href="http://davidadrian.org/">David Adrian</a> -> Michigan CSE Graduate Student</li>
 	<li>Andy Modell</li>
 	<li>Jennifer O'Neill -> Narrative Science</li>
 </ul>
@@ -327,6 +327,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 <ul>
 	<li>2014 Google Ph.D. Fellowship in Security</li>
 	<li>1st Place, 2013 CSE Graduate Student Honors Competition, University of Michigan</li>
+    <li>Best Paper Honorable Mention, ACM Internet Measurement Conference, Analysis of the HTTPS Certificate Ecosystem</li>
     <li>Best Paper Award, 21st USENIX Security Symposium, Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</li>
     <li>2nd Place, 2012 CSE Graduate Student Honors Competition, University of Michigan</li>
     <li>CSE Graduate Fellowship, University of Michigan</li>
