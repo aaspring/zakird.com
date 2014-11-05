@@ -77,7 +77,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 <p><a href="https://jhalderm.com/pub/papers/scanning-sec14.pdf">An Internet-Wide View of Internet-Wide Scanning</a></p>
 <ul>
 	<li>Zakir Durumeric, Michael Bailey, and J. Alex Halderman</li>
-	<li>USENIX Security Symposium, August 2014</li>
+	<li>USENIX Security Symposium (SEC'14), August 2014</li>
 </ul>
 </div>
 
