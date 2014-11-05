@@ -60,7 +60,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 <ul>
 	<li>Zakir Durumeric, Frank Li, James Kasten, Johanna Amann, Jethro Beekman, Mathias Payer,</li>
     <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nicolas Weaver, David Adrian, Vern Paxson, Michael Bailey, J. Alex Halderman</li>
-	<li>ACM Internet Measurement Conference (IMC'14), November 2014</li>
+	<li>ACM Internet Measurement Conference (IMC'14), November 2014 -- <em>Best Paper Award</em></li>
 </ul>
 </div>
 
@@ -325,9 +325,10 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 #### Awards and Honors
 <div class="job">
 <ul>
+    <li>Best Paper Award, 2014 ACM Internet Measurement Conference, The Matter of Heartbleed</li>
 	<li>2014 Google Ph.D. Fellowship in Security</li>
 	<li>1st Place, 2013 CSE Graduate Student Honors Competition, University of Michigan</li>
-    <li>Best Paper Honorable Mention, ACM Internet Measurement Conference, Analysis of the HTTPS Certificate Ecosystem</li>
+    <li>Best Paper Nomination, 2013 ACM Internet Measurement Conference, Analysis of the HTTPS Certificate Ecosystem</li>
     <li>Best Paper Award, 21st USENIX Security Symposium, Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</li>
     <li>2nd Place, 2012 CSE Graduate Student Honors Competition, University of Michigan</li>
     <li>CSE Graduate Fellowship, University of Michigan</li>
