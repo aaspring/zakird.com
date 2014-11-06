@@ -60,7 +60,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 <ul>
 	<li>Zakir Durumeric, Frank Li, James Kasten, Johanna Amann, Jethro Beekman, Mathias Payer,</li>
     <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nicolas Weaver, David Adrian, Vern Paxson, Michael Bailey, J. Alex Halderman</li>
-	<li>ACM Internet Measurement Conference (IMC'14), November 2014 -- <em>Best Paper Award</em></li>
+	<li>ACM Internet Measurement Conference (IMC'14), November 2014 -- <em><b>Best Paper Award</b></em></li>
 </ul>
 </div>
 
@@ -117,7 +117,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 <p><a href="https://factorable.net/paper.html">Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices</a></p>
 <ul>
 	<li>Nadia Heninger, Zakir Durumeric, Eric Wustrow, and J. Alex Halderman</li>
-	<li>USENIX Security Symposium (SEC'12), August 2012 -- <em>Best Paper Award</em></li>
+	<li>USENIX Security Symposium (SEC'12), August 2012 -- <em><b>Best Paper Award</b></em></li>
 	<li>ACM Computing Reviews’ <a href="http://www.computingreviews.com/recommend/bestof/notableitems_2012.cfm">Notable Computing Books and Articles of 2012</a>.</li>
 </ul>
 </div>
