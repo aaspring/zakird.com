@@ -101,7 +101,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 <p><a href="https://jhalderm.com/pub/papers/https-imc13.pdf">Analysis of the HTTPS Certificate Ecosystem</a></p>
 <ul>
 	<li>Zakir Durumeric, James Kasten, Michael Bailey, and J. Alex Halderman</li>
-	<li>ACM Internet Measurement Conference (IMC'13), October 2013</li>
+	<li>ACM Internet Measurement Conference (IMC'13), October 2013 -- <em>Best Paper Nomination</em></li>
 </ul>
 </div>
 
