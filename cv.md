@@ -122,7 +122,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 </ul>
 </div>
 
-#### Workshop Publications, Technical Reports, and Posters
+#### Peer-Reviewed Workshop Papers
 <div class="talk">
 <p><a href="https://jhalderm.com/pub/papers/zmap10gig-woot14.pdf">Zippier ZMap: Internet-Wide Scanning at 10 Gbps</a></p>
 <ul>
