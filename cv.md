@@ -147,6 +147,7 @@ I am best reached by e-mail at [zakir@umich.edu](mailto:zakir@umich.edu) ([GPG k
 <ul>
 	<li>University of Illinois--Systems and Networking Seminar Series -- October 9, 2014 -- invited [<a href="slides/heartbleed-uiuc.pdf">slides</a>]</li>
 	<li>2014 Internet Measurement Conference (IMC'14) -- Novmber 7, 2014 [<a href="slides/heartbleed-imc.pdf">slides</a>] </li>
+	<li>31st Chaos Communication Congress (31C3) -- December 27, 2014</li>
 </ul>
 </div>
 
