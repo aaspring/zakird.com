@@ -105,6 +105,31 @@ In the case that you have access to the raw encoding of the certificate in memor
 
 {% endhighlight %}
 
+#### 4. You have access to the Base64 encoded PEM in memory.
+
+{% highlight cpp %}
+
+       char* pemCertString = ..... (includes "-----BEGIN/END CERTIFICATE-----")
+       size_t certLen = strlen(pemCertString);
+
+       BIO* certBio = BIO_new(BIO_s_mem());
+       BIO_write(certBio, pemCertString, certLen);
+       X509* certX509 = PEM_read_bio_X509(certBio, NULL, NULL, NULL);
+       if (!certX509) {
+           fprintf(stderr, "unable to parse certificate in memory\n");
+           return EXIT_FAILURE;
+       }
+
+       // do stuff
+
+       BIO_free(certBio);
+       X509_free(certX509);
+
+
+{% endhighlight %}
+
+
+
 ### Parsing Certificates
 Now that we have access to a certificate in OpenSSL, we'll focus on how to extract useful data from the certificate. We don't include the `#include`s in every statement, but use the following headers throughout our codebase:
 
