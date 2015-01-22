@@ -435,10 +435,10 @@ These can be converted into ISO-8601 timestamps using the following code:
 	}
 	
 	char not_after_str[DATE_LEN];
-	certparse_ASN1TIME(not_after, not_after_str, DATE_LEN);
+	convert_ASN1TIME(not_after, not_after_str, DATE_LEN);
 	
 	char not_before_str[DATE_LEN];
-	certparse_ASN1TIME(not_before, not_before_str, DATE_LEN);
+	convert_ASN1TIME(not_before, not_before_str, DATE_LEN);
 
 {% endhighlight %}
 
