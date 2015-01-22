@@ -444,7 +444,7 @@ These can be converted into ISO-8601 timestamps using the following code:
 
 #### CA Status
 
-Checking whether a certificate is a valid CA certificate is not a boolean operation as you might expect. There are several avenues through which a certificate can be interpreted as CA certificate. As such, intead of directly checking various X.509 extensions, it is more reliable to use `X509_check_ca`. Any value >= 1 is considered a CA certificate whereas 0 is not a CA certificate.
+Checking whether a certificate is a valid CA certificate is not a boolean operation as you might expect. There are several avenues through which a certificate can be interpreted as CA certificate. As such, instead of directly checking various X.509 extensions, it is more reliable to use `X509_check_ca`. Any value >= 1 is considered a CA certificate whereas 0 is not a CA certificate.
 
 {% highlight cpp %}
 
