@@ -308,6 +308,7 @@ This can be translated into a string representation (either short name or long d
 
 {% highlight cpp %}
 
+	#define SIG_ALGO_LEN 64
 	char sigalgo_name[SIG_ALGO_LEN+1];
 	
 	const char* sslbuf = OBJ_nid2ln(pkey_nid);
