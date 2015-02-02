@@ -342,8 +342,11 @@ Parsing the public key on a certificate is type-specific. Here, we provide infor
 	}
 	
 	const char* sslbuf = OBJ_nid2ln(pubkey_algonid);
-	assert(strlen(sslbuf) < PUBKEY_ALGO_LEN);
-	strncpy(buf, sslbuf, PUBKEY_ALGO_LEN);
+	if (strlen(sslbuf) > PUBKEY_ALGO_LEN) {
+		fprintf(stderr, "public key algorithm name longer than allocated buffer.\n");
+		return EXIT_FAILURE;
+	}
+	strncpy(pubkey_algoname, sslbuf, PUBKEY_ALGO_LEN);
 	
 	if (pubkey_algonid == NID_rsaEncryption || pubkey_algonid == NID_dsa) {
 		
