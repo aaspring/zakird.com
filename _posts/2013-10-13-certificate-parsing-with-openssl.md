@@ -212,8 +212,7 @@ We can calculate the SHA-1 fingerprint (or any other fingerprint) with the follo
 
 {% highlight cpp %}
 
-	#define SHA_DIGEST_LEN 20
-	char buf[SHA1LEN];
+	char buf[SHA_DIGEST_LENGTH];
 	
 	const EVP_MD *digest = EVP_sha1();
 	unsigned len;
