@@ -318,7 +318,7 @@ This can be translated into a string representation (either short name or long d
 		return EXIT_FAILURE;
 	}
 	
-	strncpy(buf, sslbuf, PUBKEY_ALGO_LEN);
+	strncpy(sigalgo_name, sslbuf, SIG_ALGO_LEN);
 
 {% endhighlight %}
 
