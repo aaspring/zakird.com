@@ -331,6 +331,7 @@ Parsing the public key on a certificate is type-specific. Here, we provide infor
 
 {% highlight cpp %}
 
+	#define PUBKEY_ALGO_LEN 64
 	char pubkey_algoname[PUBKEY_ALGO_LEN];
 	
 	int pubkey_algonid = OBJ_obj2nid(cert->cert_info->key->algor->algorithm);
