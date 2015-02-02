@@ -398,6 +398,10 @@ Parsing the public key on a certificate is type-specific. Here, we provide infor
 		
 		EVP_PKEY_free(pkey);
 	}
+	else {
+		fprintf(stderr, "unable to parse pub key NID %d", pubkey_algonid);
+		return EXIT_FAILURE;
+	}
 	
 
 {% endhighlight %}
