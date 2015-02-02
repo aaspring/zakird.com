@@ -313,8 +313,8 @@ This can be translated into a string representation (either short name or long d
 	
 	const char* sslbuf = OBJ_nid2ln(pkey_nid);
 	
-	if (strlen(sslbuf) > PUBKEY_ALGO_LEN) {
-		fprintf(stderr, "public key algorithm name longer than allocated buffer.\n");
+	if (strlen(sslbuf) > SIG_ALGO_LEN) {
+		fprintf(stderr, "signature algorithm name longer than allocated buffer.\n");
 		return EXIT_FAILURE;
 	}
 	
